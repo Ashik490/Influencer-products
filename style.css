@@ -1,0 +1,69 @@
+ .nav-item{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cicle{
+    background-image: url(images/Circle\ design.svg);
+}
+.manu{
+    margin-left: 40%;
+}
+.iconnav{
+    width: 50x;
+    height: 50px;
+
+}
+.iconnavbarsearch{
+    width: 5%;
+}
+
+
+/* 1st section in project */
+.head{
+    margin-top: 10%;
+   
+}
+.button{
+    font-size: 20px;
+    width: 20%;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.firstBody {
+    box-shadow: 5px 5px 10px wheat;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+
+/* popular collecation statement */
+.popular{
+    text-align: center;
+    color: darkred;
+    margin-top: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 5px solid goldenrod;
+}
+#seemore{
+    text-align: end;
+    color: tomato;
+}
+.Join{
+    padding-left: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.joinnow{
+    width: 30%;
+ 
+    background-color: cornsilk;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 5%;
+    padding: 50px;
+
+}
